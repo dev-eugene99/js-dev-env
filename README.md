@@ -24,5 +24,5 @@ It has the following:
 - Bundling: `webpack`
 - Linting: `eslint`
 - Testing: `mocha` + `chai` + `jsdom`
-
+- CI config: `travis ci` + `appveyor`
 (To be Continued)
