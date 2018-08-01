@@ -1,5 +1,6 @@
 # Javascript Starter Pack (July 2018)
-[![Build Status](https://travis-ci.org/dev-eugene99/js-dev-env.svg?branch=master)](https://travis-ci.org/dev-eugene99/js-dev-env)
+Travis CI: [![Build Status](https://travis-ci.org/dev-eugene99/js-dev-env.svg?branch=master)](https://travis-ci.org/dev-eugene99/js-dev-env)
+
 An all-in-one NodeJS/Express starter project with scripting, transpiling, bundling, linting, testing, and CI built in.
 
 ## Background
