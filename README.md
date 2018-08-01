@@ -1,5 +1,4 @@
-# Javascript Starter Pack (July 2018)
-Travis CI: [![Build Status](https://travis-ci.org/dev-eugene99/js-dev-env.svg?branch=master)](https://travis-ci.org/dev-eugene99/js-dev-env)
+# Javascript Starter Pack (July 2018) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Build Status](https://travis-ci.org/dev-eugene99/js-dev-env.svg?branch=master)](https://travis-ci.org/dev-eugene99/js-dev-env) 
 
 An all-in-one NodeJS/Express starter project with scripting, transpiling, bundling, linting, testing, and CI built in.
 
