@@ -1,4 +1,5 @@
 # Javascript Starter Pack (July 2018)
+An all-in-one NodeJS/Express starter project with scripting, transpiling, bundling, linting, testing, and CI built in.
 
 ## Background
 
@@ -24,5 +25,6 @@ It has the following:
 - Bundling: `webpack`
 - Linting: `eslint`
 - Testing: `mocha` + `chai` + `jsdom`
-- CI config: `travis ci` + `appveyor`
+- CI config: [travis-ci](https://travis-ci.org/) + [appveyor](https://www.appveyor.com/)
+
 (To be Continued)
