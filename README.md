@@ -4,13 +4,11 @@ An all-in-one NodeJS/Express starter project with scripting, transpiling, bundli
 
 ## Background
 
-Inspired by [Cory House](https://github.com/coryhouse)'s Pluralsight course on "[Building a JavaScript Development Environment](https://app.pluralsight.com/library/courses/javascript-development-environment/table-of-contents)", I've created an updated version of what he taught, with a few key differences:
+Inspired by [Cory House](https://github.com/coryhouse)'s Pluralsight course on "[Building a JavaScript Development Environment](https://app.pluralsight.com/library/courses/javascript-development-environment/table-of-contents)", this project is an updated version with a few key differences:
 
-- since nsp is deprecated, `npm audit` is used instead.
+- `npm audit` is used instead of `nsp`.
 - no longer using `open` package due to security concerns.
-- using the latest version of webpack (as of July 2018), config file is slightly different.
-
-Other than that, there are some differences in versions and everything else is pretty much the same.
+- various config changes with updated version of various packages.
 
 ## The Stack
 
