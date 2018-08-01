@@ -1,4 +1,4 @@
-# Javascript Starter Pack
+# Javascript Starter Pack (July 2018)
 
 ## Background
 
