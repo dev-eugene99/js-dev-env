@@ -1,7 +1,8 @@
 # Test against this version of Node.js
 environment:
+  
   matrix:
-    -nodejs_version: "8"
+    nodejs_version: "8"
   
     # Install scripts.
     install:        
