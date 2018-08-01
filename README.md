@@ -16,13 +16,13 @@ This project is to help a NodeJS Javascript developer start off with a full set 
 
 It has the following:
 
-- Package Manager: npm
-- Server: NodeJS + ExpressJS
-- Sharing WIP: localtunnel
-- Scripting: npm scripts
-- Transpiling: Babel
-- Bundling: Webpack
-- Linting: ESLint
-- Testing: Mocha
+- Package Manager: `npm`
+- Server: NodeJS + `expressJS`
+- Sharing WIP: `localtunnel`
+- Scripting: `npm scripts`
+- Transpiling: `babel`
+- Bundling: `webpack`
+- Linting: `eslint`
+- Testing: `mocha` + `chai` + `jsdom`
 
 (To be Continued)
