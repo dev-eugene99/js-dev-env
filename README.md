@@ -1,6 +1,6 @@
 # Javascript Starter Pack (July 2018) [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT) [![Build Status](https://travis-ci.org/dev-eugene99/js-dev-env.svg?branch=master)](https://travis-ci.org/dev-eugene99/js-dev-env) 
 
-An all-in-one NodeJS/Express starter project with scripting, transpiling, bundling, linting, testing, and CI built in.
+An all-in-one, pre-configured NodeJS/Express starter project with scripting, transpiling, bundling, linting, testing, and CI built in.
 
 ## Background
 
@@ -12,7 +12,7 @@ Inspired by [Cory House](https://github.com/coryhouse)'s Pluralsight course on "
 
 ## The Stack
 
-This project is to help a NodeJS Javascript developer start off with a full set of javascript-related toolkits at their disposal immediately.
+This project is to help a NodeJS Javascript developer start off with a fully configured project ready for javascript development.
 
 It has the following:
 
@@ -24,6 +24,11 @@ It has the following:
 - Bundling: `webpack`
 - Linting: `eslint`
 - Testing: `mocha` + `chai` + `jsdom`
-- CI config: [travis-ci](https://travis-ci.org/) + [appveyor](https://www.appveyor.com/)
+- CI: [travis-ci](https://travis-ci.org/) + [appveyor](https://www.appveyor.com/)
+- Polyfill: [polyfill.io](https://polyfill.io/v2/docs/)
+- Mock HTTP: `nock`
+
+## How to use?
+
 
 (To be Continued)
