@@ -1,6 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
+    <% if (htmlWebpackPlugin.options.trackJSToken){ %>
+    <!-- optionally use Track.JS to log errors. can reference variable above with <% htmlWebpackPlugin.options.trackJSToken %>-->
+    <% } %>
     <title>Javascript Dev Starter Pack</title>
     <meta charset="UTF-8">    
   </head>
@@ -20,6 +23,5 @@
       </tbody>
     </tabl>
     
-    <script src="bundle.js"></script>
   </body>
 </html>

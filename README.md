@@ -27,8 +27,3 @@ It has the following:
 - CI: [travis-ci](https://travis-ci.org/) + [appveyor](https://www.appveyor.com/)
 - Polyfill: [polyfill.io](https://polyfill.io/v2/docs/)
 - Mock HTTP: `nock`
-
-## How to use?
-
-
-(To be Continued)
