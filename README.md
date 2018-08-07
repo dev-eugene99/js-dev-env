@@ -9,6 +9,7 @@ Inspired by [Cory House](https://github.com/coryhouse)'s Pluralsight course on "
 - `npm audit` is used instead of `nsp`.
 - no longer using `open` package due to security concerns.
 - various config changes with updated version of various packages.
+- newer versions of most packages are used (i.e. babel, webpack etc)
 
 ## The Stack
 
